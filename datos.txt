@@ -1,0 +1,7 @@
+Nombre:Matias
+Apellido:Iturregui
+Altura:1.78
+Edad:26
+Peso:110
+colorPreferido:Azul, Verde
+d.n.i:40223490
